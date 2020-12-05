@@ -7,12 +7,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using NAudio;
+using NAudio.Wave;
 
 namespace Notes_Editor
 {
     public partial class Form1 : Form
     {
+        //クラス内公開メンバ変数
+        private AudioFileReader reader = new AudioFileReader(@"..\..\Resources\DesireWorker.mp3");
+
         public Form1() => InitializeComponent();
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            WaveOut waveOut = new WaveOut();
+            waveOut.Init(reader);
+            reader.Position = 0;
+            waveOut.Play();
+        }
     }
 }

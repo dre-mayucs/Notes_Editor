@@ -1,0 +1,13 @@
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\bin\Debug\Notes Editor.exe.config
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\bin\Debug\Notes Editor.exe
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\bin\Debug\Notes Editor.pdb
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\bin\Debug\NAudio.dll
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\bin\Debug\NAudio.xml
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\obj\Debug\Notes Editor.csprojAssemblyReference.cache
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\obj\Debug\Notes_Editor.Form1.resources
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\obj\Debug\Notes_Editor.Properties.Resources.resources
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\obj\Debug\Notes Editor.csproj.GenerateResource.cache
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\obj\Debug\Notes Editor.csproj.CoreCompileInputs.cache
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\obj\Debug\Notes Editor.csproj.CopyComplete
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\obj\Debug\Notes Editor.exe
+F:\Dev\GitHub\NotesEditor\Notes Editor\Notes Editor\obj\Debug\Notes Editor.pdb
